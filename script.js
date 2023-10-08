@@ -1,1 +1,2 @@
-$("h1").text("Hii").css("color", "green");
+$("h1").text("What's upp").css("color", "green");
+$("h2").css("color", "red")
